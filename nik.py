@@ -2,5 +2,6 @@
 print("hello World!")
 
 
-for i in range(1):
+for i in range(100):
   print(i)
+  print(i+1)
